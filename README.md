@@ -10,7 +10,6 @@
 
 - ⚡ Lo que me gusta hacer: **Leer, Jugar fortnite, ver series y peliculas y por supuesto programar**
 
-<h3 align="center">Conecta conmigo:</h3>
 <div align="center">
   
 # 💫Sobre mí :
