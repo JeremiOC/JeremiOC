@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Frank <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil+de+GitHub;Apasionado+por+el+desarrollo+de+software+%3C3"></a>
+<a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil;Apasionado+por+el+desarrollo;De+software+%3C3">
+</a>
 </p>
 <h3 align="center"></h3>
 
