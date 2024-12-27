@@ -3,8 +3,9 @@
 <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola%2C+bienvenido+a+mi+perfil;Apasionado+por+el+desarrollo;De+software+%3C3">
 </a>
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
 </p>
-<h3 align="center"></h3>
 
 - 🔭 Actualmente me encuentro cursando el cuarto ciclo de mi carrera tecnica Computacion e informatica
 
